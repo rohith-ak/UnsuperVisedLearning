@@ -28,3 +28,5 @@ Attribute Information:
   
 PROJECT OBJECTIVE: Goal is to build a synthetic data generation model using the existing data provided by the company.
 
+Notebook as HTML file can be accessed using below link
+https://htmlpreview.github.io/?https://github.com/rohith-ak/UnsuperVisedLearning/blob/2f03e039e73fb0b4dcfa1d86826c6eebba5b9747/UnsuperviedLearning_5PartProject.html
